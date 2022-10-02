@@ -8,6 +8,6 @@ Then login to WHM, Go to
 Home > Plugins > ConfigServer Security & Firewall
 ```
 
-Find button "Firewall Restat". Click on it.
+Find button "lfd Restat". Click on it.
 
-Even if you don't restart firewall, IP will get updated every 1 hour.
+Even if you don't restart lfd, IP will get updated every 1 hour.
