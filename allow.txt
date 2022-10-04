@@ -2,9 +2,6 @@
 51.38.246.115 # serverok
 15.204.204.6 # OVH VPN
 72.201.181.30 # David
-49.36.80.159 # Vishal
-192.168.0.47 # Maulik
-39.45.218.84 # Bilal Vue Js
 119.160.99.25 # Sabir
 172.58.129.190 # Damian Estevez
 103.73.101.14 # Sabir 
