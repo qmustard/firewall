@@ -5,4 +5,5 @@
 119.160.99.25 # Sabir
 172.58.129.190 # Damian Estevez
 103.73.101.14 # Sabir 
-202.47.46.193 Mohannad Upwork
+202.47.46.193 # Mohannad Upwork
+72-255.5.131 # Shery Mohannad Upwork
