@@ -7,7 +7,7 @@
 103.73.101.14 # Sabir 
 12.234.239.186 # David at Hospital
 116.206.203.101 # Suman
-58.65.221.77 Hammad
-162.227.120.131 Damian Estevez
-136.158.0.165 Ziegfrid
-49.148.224.0/20 Foilan
+58.65.221.77 # Hammad
+162.227.120.131 # Damian Estevez
+136.158.0.165 # Ziegfrid
+49.148.224.0/20 # Foilan
