@@ -3,7 +3,6 @@
 15.204.204.6 # OVH VPN
 72.201.181.30 # David
 119.160.99.25 # Sabir
-172.58.129.190 # Damian Estevez
 103.73.101.14 # Sabir 
 12.234.239.186 # David at Hospital
 116.206.203.101 # Suman
