@@ -16,3 +16,4 @@
 172.20.10.2 # Mustapha
 102.89.34.239 # Mustapha 2 IP
 112.206.106.189 # Pacio 
+66.90.19.194 # David celebration Hotel
