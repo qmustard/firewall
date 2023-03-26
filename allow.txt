@@ -18,3 +18,5 @@
 112.206.106.189 # Pacio 
 66.90.19.194 # David celebration Hotel
 172.32.0.0/11 # David’s iPhone IP range
+37.111.217.135 # asked by david on FL chat 2023-03-27 12:25 AM
+107.77.224.135 # asked by david on FL chat 2023-03-27 12:25 AM
