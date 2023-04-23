@@ -9,17 +9,12 @@
 73.107.143.191 # David
 76.101.85.114 # David
 73.107.143.191 # David
-152.32.104.74 # Charlene
 4.14.53.134 # Phoenix Office
 103.120.203.102 # Fahim
 37.111.219.199 # Fahim 2
-172.20.10.2 # Mustapha
-102.89.34.239 # Mustapha 2 IP
-112.206.106.189 # Pacio 
-66.90.19.194 # David celebration Hotel
 172.32.0.0/11 # David’s iPhone IP range
 37.111.217.135 # asked by david on FL chat 2023-03-27 12:25 AM
 107.77.224.135 # asked by david on FL chat 2023-03-27 12:25 AM
-158.62.100.152 # Adding Pac 2nd IP
 37.111.219.120 # Asfat Fahim
 37.111.217.99  # Asfat Fahim
+158.62.96.80  # Adding Pac 3rd IP
