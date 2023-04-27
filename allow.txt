@@ -20,3 +20,4 @@
 158.62.96.80  # Adding Pac 3rd IP
 112.206.109.112 # Adding Pac another IP
 112.206.100.187 # ADDED LIL PAC 3RD IP
+15.204.52.30 # Adding VPN
